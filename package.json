@@ -9,10 +9,12 @@
   "author": "xian",
   "license": "ISC",
   "bin": {
-    "snippet": "./index.js"
+    "thanks": "./index.js"
   },
   "dependencies": {
+    "co": "^4.6.0",
     "co-prompt": "^1.0.0",
-    "commander": "^2.20.0"
+    "commander": "^2.20.0",
+    "fs": "0.0.1-security"
   }
 }
